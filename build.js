@@ -1,0 +1,1 @@
+(()=>{console.log("hello to the world");var t=0,e=0;!function(o,r){t=0,e=e;var p=L.map("mapid").setView([t,e],13);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(p)}()})();
